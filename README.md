@@ -8,7 +8,7 @@ Node-Red Dashboard URL: https://node-red-ozush.eu-gb.mybluemix.net/ui/#!/0?socke
 
 Video Demonstration (drive): https://drive.google.com/file/d/1QB0zBYbyRTbZM5lm3ByvCPJ-2oPBlX6E/view?usp=sharing
 
-# Project Title: Predicating Life Expectancy using Machine Learning
+# Project Title: Predicting Life Expectancy using Machine Learning
 
 Category: Machine Learning
 
