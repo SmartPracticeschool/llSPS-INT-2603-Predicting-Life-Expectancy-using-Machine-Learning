@@ -6,7 +6,6 @@ Data Set: https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
 
 Node-Red Dashboard URL: https://node-red-ozush.eu-gb.mybluemix.net/ui/#!/0?socketid=Qos3cj0jw24DwXA6AAAe
 
-Video Demonstration (drive): https://drive.google.com/file/d/1QB0zBYbyRTbZM5lm3ByvCPJ-2oPBlX6E/view?usp=sharing
 
 # Project Title: Predicting Life Expectancy using Machine Learning
 
